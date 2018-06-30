@@ -1,0 +1,4 @@
+square = float(input('Введите сторону квадрата: '))
+print('Perimeterа = ' + str(square*4))
+print('Area = ' + str(square**2))
+print('Diagonal = ' + str(square*2**0.5))
